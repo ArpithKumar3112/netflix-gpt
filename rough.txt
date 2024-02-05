@@ -1,0 +1,14 @@
+#Features
+-Login/Signup page
+    -Sign In/Sign Up page
+    -Redirect to Browse Page
+-Browse(After Authentication)
+    -Header
+    -Main Movie
+        -Trailer in the Background
+        -Title and Descriptiom
+        -Movie Suggestions
+            -MovieLists * N(Vertically Scrollable)
+-NetflixGPT
+    -Search branch  
+    -Movie Suggestions
