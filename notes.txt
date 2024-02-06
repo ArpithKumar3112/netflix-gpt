@@ -204,3 +204,25 @@ React app with create-react-app
     --make changes in tailwind.config.json and index.css as per the documentation
  -Install routing
     --npm install -D react-router-dom   
+
+
+
+Firebase:-
+-npm istall Firebase
+-Setup a webapp on Firebase
+-If you want to host your website on Firebase-Check the Also set up Frebase Hosting box.
+-Store the files in a config
+-Install firebase CLI using the command-`sudo npm install -g firebase-tools`
+-`firebase login`
+-`firebase init`
+-What do you want to use as your public directory? build(All the bundled ,production ready code is in BUILD folder)
+-npm run build
+-firebase deploy
+
+Redux:-
+-npm install -D @reduxjs/toolkit
+-npm install react-redux
+-Once you have setup a store and slice ,check on the Redux extension(state section) if our store and slice is appearing.
+-to dispatch actions=>const disp=useDispatch()(This is a hook)
+                            disp(addUser({object}));
+-
